@@ -1,0 +1,15 @@
+
+.img-centered {
+    color: rgba(247, 247, 247, 0.9);
+    text-shadow: 1px 1px 10px black;
+    font-size: 59px;
+}
+
+table {
+    font-size: 20px;
+}
+
+thead {
+    font-size: 34px;
+    text-transform: uppercase;
+}

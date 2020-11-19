@@ -1,0 +1,10 @@
+
+.img-centered {
+    color: rgba(255, 255, 255);
+    text-shadow: 1px 1px 15px rgb(0, 0, 0);
+    font-size: 55px;
+}
+
+#contact-info {
+    padding: 5vh 17vw 5vh 17vw;
+}

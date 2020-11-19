@@ -1,0 +1,17 @@
+
+.img-centered {
+    color: rgba(247, 247, 247, 0.9);
+    text-shadow: 1px 1px 10px black;
+    font-size: 59px;
+}
+
+.vilag-orokseg-kep {
+    width: 500px;
+    transition: 0.3s ease;
+    cursor: pointer;
+    z-index: 1000 !important;
+}
+
+.vilag-orokseg-kep:hover {
+    transform: scale(1.05, 1.05);
+}
